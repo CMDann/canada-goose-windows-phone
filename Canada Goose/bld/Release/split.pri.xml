@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="44920CMDannDevelopment.CanadaGoose" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+			<Theme>LIGHT, DARK</Theme>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="assets">
+				<NamedResource name=".DS_Store" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/.DS_Store">
+					<Candidate type="Path">
+						<Value>assets\.DS_Store</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bird.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/bird.png">
+					<Candidate type="Path">
+						<Value>assets\bird.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ceiling.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/ceiling.png">
+					<Candidate type="Path">
+						<Value>assets\ceiling.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big.psd" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big.psd">
+					<Candidate type="Path">
+						<Value>assets\font_big.psd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_0.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_0.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_1.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_1.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_2.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_2.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_3.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_3.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_3.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_4.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_4.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_4.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_5.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_5.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_5.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_6.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_6.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_6.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_7.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_7.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_7.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_8.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_8.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_8.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_big_9.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_big_9.png">
+					<Candidate type="Path">
+						<Value>assets\font_big_9.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small.psd" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small.psd">
+					<Candidate type="Path">
+						<Value>assets\font_small.psd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_0.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_0.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_1.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_1.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_2.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_2.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_3.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_3.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_3.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_4.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_4.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_4.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_5.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_5.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_5.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_6.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_6.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_6.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_7.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_7.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_7.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_8.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_8.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_8.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="font_small_9.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/font_small_9.png">
+					<Candidate type="Path">
+						<Value>assets\font_small_9.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="land.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/land.png">
+					<Candidate type="Path">
+						<Value>assets\land.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="medal_bronze.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/medal_bronze.png">
+					<Candidate type="Path">
+						<Value>assets\medal_bronze.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="medal_gold.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/medal_gold.png">
+					<Candidate type="Path">
+						<Value>assets\medal_gold.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="medal_platinum.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/medal_platinum.png">
+					<Candidate type="Path">
+						<Value>assets\medal_platinum.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="medal_silver.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/medal_silver.png">
+					<Candidate type="Path">
+						<Value>assets\medal_silver.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pipe-down.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/pipe-down.png">
+					<Candidate type="Path">
+						<Value>assets\pipe-down.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pipe-up.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/pipe-up.png">
+					<Candidate type="Path">
+						<Value>assets\pipe-up.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pipe.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/pipe.png">
+					<Candidate type="Path">
+						<Value>assets\pipe.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="replay.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/replay.png">
+					<Candidate type="Path">
+						<Value>assets\replay.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="scoreboard.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/scoreboard.png">
+					<Candidate type="Path">
+						<Value>assets\scoreboard.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sky.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/sky.png">
+					<Candidate type="Path">
+						<Value>assets\sky.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splash.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/splash.png">
+					<Candidate type="Path">
+						<Value>assets\splash.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="thumb.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/thumb.png">
+					<Candidate type="Path">
+						<Value>assets\thumb.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="forest">
+					<NamedResource name="land.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/forest/land.png">
+						<Candidate type="Path">
+							<Value>assets\forest\land.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pipe-down.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/forest/pipe-down.png">
+						<Candidate type="Path">
+							<Value>assets\forest\pipe-down.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pipe-up.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/forest/pipe-up.png">
+						<Candidate type="Path">
+							<Value>assets\forest\pipe-up.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pipe.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/forest/pipe.png">
+						<Candidate type="Path">
+							<Value>assets\forest\pipe.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sky.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/forest/sky.png">
+						<Candidate type="Path">
+							<Value>assets\forest\sky.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plain">
+					<NamedResource name="land.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/plain/land.png">
+						<Candidate type="Path">
+							<Value>assets\plain\land.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pipe-down.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/plain/pipe-down.png">
+						<Candidate type="Path">
+							<Value>assets\plain\pipe-down.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pipe-up.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/plain/pipe-up.png">
+						<Candidate type="Path">
+							<Value>assets\plain\pipe-up.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pipe.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/plain/pipe.png">
+						<Candidate type="Path">
+							<Value>assets\plain\pipe.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sky.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/plain/sky.png">
+						<Candidate type="Path">
+							<Value>assets\plain\sky.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="sounds">
+					<NamedResource name="sfx_die.ogg" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/sounds/sfx_die.ogg">
+						<Candidate type="Path">
+							<Value>assets\sounds\sfx_die.ogg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sfx_hit.ogg" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/sounds/sfx_hit.ogg">
+						<Candidate type="Path">
+							<Value>assets\sounds\sfx_hit.ogg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sfx_point.ogg" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/sounds/sfx_point.ogg">
+						<Candidate type="Path">
+							<Value>assets\sounds\sfx_point.ogg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sfx_swooshing.ogg" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/sounds/sfx_swooshing.ogg">
+						<Candidate type="Path">
+							<Value>assets\sounds\sfx_swooshing.ogg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sfx_wing.ogg" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/assets/sounds/sfx_wing.ogg">
+						<Candidate type="Path">
+							<Value>assets\sounds\sfx_wing.ogg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="base.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/base.css">
+					<Candidate type="Path">
+						<Value>css\base.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="buttons.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/buttons.css">
+					<Candidate type="Path">
+						<Value>css\buttons.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="forest.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/forest.css">
+					<Candidate type="Path">
+						<Value>css\forest.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="headers.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/headers.css">
+					<Candidate type="Path">
+						<Value>css\headers.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="main.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/main.css">
+					<Candidate type="Path">
+						<Value>css\main.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="plain.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/plain.css">
+					<Candidate type="Path">
+						<Value>css\plain.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="reset.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/reset.css">
+					<Candidate type="Path">
+						<Value>css\reset.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="toolbars.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/toolbars.css">
+					<Candidate type="Path">
+						<Value>css\toolbars.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ui-themed.css" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/css/ui-themed.css">
+					<Candidate qualifiers="Theme-LIGHT" isDefault="true" type="Path">
+						<Value>css\ui-themed.theme-light.css</Value>
+					</Candidate>
+					<Candidate qualifiers="Theme-DARK" isDefault="true" type="Path">
+						<Value>css\ui-themed.theme-dark.css</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>css\ui-themed.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="ApplicationIcon.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/ApplicationIcon.png">
+					<Candidate type="Path">
+						<Value>images\ApplicationIcon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FlipCycleTileMedium.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/FlipCycleTileMedium.png">
+					<Candidate type="Path">
+						<Value>images\FlipCycleTileMedium.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FlipCycleTileSmall.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/FlipCycleTileSmall.png">
+					<Candidate type="Path">
+						<Value>images\FlipCycleTileSmall.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="base.js" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/js/base.js">
+					<Candidate type="Path">
+						<Value>js\base.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="buzz.min.js" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/js/buzz.min.js">
+					<Candidate type="Path">
+						<Value>js\buzz.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.js" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery.min.js" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/js/jquery.min.js">
+					<Candidate type="Path">
+						<Value>js\jquery.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery.transit.min.js" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/js/jquery.transit.min.js">
+					<Candidate type="Path">
+						<Value>js\jquery.transit.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="main.js" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/js/main.js">
+					<Candidate type="Path">
+						<Value>js\main.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="offline.js" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/js/offline.js">
+					<Candidate type="Path">
+						<Value>js\offline.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="webapp.js" uri="ms-resource://44920CMDannDevelopment.CanadaGoose/Files/js/webapp.js">
+					<Candidate type="Path">
+						<Value>js\webapp.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

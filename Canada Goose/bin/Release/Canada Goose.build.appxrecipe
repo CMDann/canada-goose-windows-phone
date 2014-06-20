@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DANNBLAIR0035</Machine>
+    <WindowsUser>cmdann</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1754891a-9a90-4343-b832-5e6ab5a9fd34</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\.DS_Store">
+      <PackagePath>assets\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\bird.png">
+      <PackagePath>assets\bird.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\ceiling.png">
+      <PackagePath>assets\ceiling.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_0.png">
+      <PackagePath>assets\font_big_0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_1.png">
+      <PackagePath>assets\font_big_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_2.png">
+      <PackagePath>assets\font_big_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_3.png">
+      <PackagePath>assets\font_big_3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_4.png">
+      <PackagePath>assets\font_big_4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_5.png">
+      <PackagePath>assets\font_big_5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_6.png">
+      <PackagePath>assets\font_big_6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_7.png">
+      <PackagePath>assets\font_big_7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_8.png">
+      <PackagePath>assets\font_big_8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big_9.png">
+      <PackagePath>assets\font_big_9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_0.png">
+      <PackagePath>assets\font_small_0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_1.png">
+      <PackagePath>assets\font_small_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_2.png">
+      <PackagePath>assets\font_small_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_3.png">
+      <PackagePath>assets\font_small_3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_4.png">
+      <PackagePath>assets\font_small_4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_5.png">
+      <PackagePath>assets\font_small_5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_6.png">
+      <PackagePath>assets\font_small_6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_7.png">
+      <PackagePath>assets\font_small_7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_8.png">
+      <PackagePath>assets\font_small_8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small_9.png">
+      <PackagePath>assets\font_small_9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\forest\land.png">
+      <PackagePath>assets\forest\land.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\forest\pipe-down.png">
+      <PackagePath>assets\forest\pipe-down.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\forest\pipe-up.png">
+      <PackagePath>assets\forest\pipe-up.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\forest\pipe.png">
+      <PackagePath>assets\forest\pipe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\forest\sky.png">
+      <PackagePath>assets\forest\sky.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\land.png">
+      <PackagePath>assets\land.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\medal_bronze.png">
+      <PackagePath>assets\medal_bronze.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\medal_gold.png">
+      <PackagePath>assets\medal_gold.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\medal_platinum.png">
+      <PackagePath>assets\medal_platinum.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\medal_silver.png">
+      <PackagePath>assets\medal_silver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\pipe-down.png">
+      <PackagePath>assets\pipe-down.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\pipe-up.png">
+      <PackagePath>assets\pipe-up.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\pipe.png">
+      <PackagePath>assets\pipe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\plain\land.png">
+      <PackagePath>assets\plain\land.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\plain\pipe-down.png">
+      <PackagePath>assets\plain\pipe-down.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\plain\pipe-up.png">
+      <PackagePath>assets\plain\pipe-up.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\plain\pipe.png">
+      <PackagePath>assets\plain\pipe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\plain\sky.png">
+      <PackagePath>assets\plain\sky.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\replay.png">
+      <PackagePath>assets\replay.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\scoreboard.png">
+      <PackagePath>assets\scoreboard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\sky.png">
+      <PackagePath>assets\sky.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\splash.png">
+      <PackagePath>assets\splash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\thumb.png">
+      <PackagePath>assets\thumb.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\ApplicationIcon.png">
+      <PackagePath>images\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\BadgeLogo.scale-100.png">
+      <PackagePath>images\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\BadgeLogo.scale-140.png">
+      <PackagePath>images\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\BadgeLogo.scale-240.png">
+      <PackagePath>images\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\FlipCycleTileMedium.png">
+      <PackagePath>images\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\FlipCycleTileSmall.png">
+      <PackagePath>images\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\SplashScreen.scale-140.png">
+      <PackagePath>images\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square150x150Logo.scale-140.png">
+      <PackagePath>images\Square150x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square44x44Logo.scale-140.png">
+      <PackagePath>images\Square44x44Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square71x71Logo.scale-140.png">
+      <PackagePath>images\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\StoreLogo.scale-140.png">
+      <PackagePath>images\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Wide310x150Logo.scale-140.png">
+      <PackagePath>images\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_big.psd">
+      <PackagePath>assets\font_big.psd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\font_small.psd">
+      <PackagePath>assets\font_small.psd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\sounds\sfx_die.ogg">
+      <PackagePath>assets\sounds\sfx_die.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\sounds\sfx_hit.ogg">
+      <PackagePath>assets\sounds\sfx_hit.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\sounds\sfx_point.ogg">
+      <PackagePath>assets\sounds\sfx_point.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\sounds\sfx_swooshing.ogg">
+      <PackagePath>assets\sounds\sfx_swooshing.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\assets\sounds\sfx_wing.ogg">
+      <PackagePath>assets\sounds\sfx_wing.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\base.css">
+      <PackagePath>css\base.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\buttons.css">
+      <PackagePath>css\buttons.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\forest.css">
+      <PackagePath>css\forest.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\headers.css">
+      <PackagePath>css\headers.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\main.css">
+      <PackagePath>css\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\plain.css">
+      <PackagePath>css\plain.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\reset.css">
+      <PackagePath>css\reset.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\toolbars.css">
+      <PackagePath>css\toolbars.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\js\base.js">
+      <PackagePath>js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\js\buzz.min.js">
+      <PackagePath>js\buzz.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\js\jquery.min.js">
+      <PackagePath>js\jquery.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\js\jquery.transit.min.js">
+      <PackagePath>js\jquery.transit.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\js\offline.js">
+      <PackagePath>js\offline.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\js\webapp.js">
+      <PackagePath>js\webapp.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

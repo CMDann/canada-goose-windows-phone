@@ -1,0 +1,15 @@
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bin\Debug\ReverseMap\resources.pri
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bin\Debug\AppxManifest.xml
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bin\Debug\Canada Goose.build.appxrecipe
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\priconfig.xml
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\priconfig.xml.intermediate
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\layout.resfiles
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\layout.resfiles.intermediate
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\resources.resfiles
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\resources.resfiles.intermediate
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\pri.resfiles
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\pri.resfiles.intermediate
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\qualifiers.txt
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\qualifiers.txt.intermediate
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Debug\ProjectArchitectures.txt

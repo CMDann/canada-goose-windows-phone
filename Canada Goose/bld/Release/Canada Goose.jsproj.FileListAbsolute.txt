@@ -1,0 +1,15 @@
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bin\Release\AppxManifest.xml
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bin\Release\Canada Goose.build.appxrecipe
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\priconfig.xml
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\priconfig.xml.intermediate
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\layout.resfiles
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\layout.resfiles.intermediate
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\resources.resfiles
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\resources.resfiles.intermediate
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\pri.resfiles
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\pri.resfiles.intermediate
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\qualifiers.txt
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\qualifiers.txt.intermediate
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bld\Release\ProjectArchitectures.txt
+C:\Users\cmdann\documents\visual studio 2013\Projects\Canada Goose\Canada Goose\bin\Release\resources.pri
